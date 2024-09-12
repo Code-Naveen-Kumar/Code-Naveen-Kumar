@@ -1,16 +1,14 @@
-## Hi there 👋
+🌟 About Me
+Hi there! I'm a Computer Science Engineering (CSE) student currently pursuing my B.Tech at Vellore Institute of Technology. 
+I am passionate about technology and love exploring new areas in the field.
 
-<!--
-**Code-Naveen-Kumar/Code-Naveen-Kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧑‍💻 Interests:
+Web Development: Crafting interactive and responsive websites.
+Frontend Development: Building beautiful, user-friendly interfaces.
+Android App Development: Creating intuitive and impactful mobile applications.
 
-Here are some ideas to get you started:
+🌱 Currently Learning:
+Advanced JavaScript, React, and mobile app development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Let's Connect!
+I'm always open to collaborating on exciting projects or discussing innovative ideas. Feel free to reach out!
