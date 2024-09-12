@@ -1,14 +1,17 @@
-🌟 About Me
-Hi there! I'm a Computer Science Engineering (CSE) student currently pursuing my B.Tech at Vellore Institute of Technology. 
-I am passionate about technology and love exploring new areas in the field.
+# 👋 Hi there! I'm **Naveen Kumar**!
 
-🧑‍💻 Interests:
-Web Development: Crafting interactive and responsive websites.
-Frontend Development: Building beautiful, user-friendly interfaces.
-Android App Development: Creating intuitive and impactful mobile applications.
+## 🌟 About Me
 
-🌱 Currently Learning:
-Advanced JavaScript, React, and mobile app development.
+I'm a **Computer Science Engineering (CSE) student** currently pursuing my **B.Tech at Vellore Institute of Technology (VIT)**. I'm deeply passionate about technology and always eager to explore new areas and ideas in the field!
 
-🚀 Let's Connect!
-I'm always open to collaborating on exciting projects or discussing innovative ideas. Feel free to reach out!
+## 🧑‍💻 Interests:
+- **Web Development**: Crafting interactive and responsive websites.
+- **Frontend Development**: Designing beautiful, user-friendly interfaces.
+- **Android App Development**: Building intuitive and impactful mobile applications.
+
+## 🌱 Currently Learning:
+- Advanced **JavaScript** and **React** for building robust web applications.
+- **Mobile App Development** to create seamless user experiences on Android.
+
+## 🚀 Let's Connect!
+I'm always open to collaborating on exciting projects or discussing innovative ideas. Feel free to reach out to me on GitHub or LinkedIn!
